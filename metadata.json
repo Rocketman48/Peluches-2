@@ -1,0 +1,6 @@
+{
+  "name": "Peluches-U: Universo de Personajes",
+  "description": "Centro de organización, revisión y desarrollo del universo de personajes de peluches de Jandel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
